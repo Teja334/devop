@@ -1,0 +1,4 @@
+public stalic  void main[ ]
+{
+
+}
